@@ -20,11 +20,6 @@
 * Modif 2
 * Modif 3
 
-### TODO
-
-* item 1
-* item 2
-
 ### Detail des changements
 
 Detail complet des mises à jour sur [Historique Commit](https://github.com/Jeedom-Plugins-Extra/plugin-template/commits/master)
